@@ -259,4 +259,6 @@ start https://remix.ethereum.org/
 
 ---
 
+#sahil chatgpt theory - https://chatgpt.com/share/691550ba-fba8-8011-9041-964b801fec4c
+#omkar chatgpt theory - https://chatgpt.com/share/691344b0-9eb8-8003-ab2e-73b68fd322b2
 **Created for SPPU CSE Semester 7 - Laboratory Practice 3**
